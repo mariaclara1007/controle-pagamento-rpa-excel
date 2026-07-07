@@ -2,6 +2,18 @@
 
 Este projeto consiste em uma planilha automatizada desenvolvida no Microsoft Excel para a gestão, cálculo e consolidação de Recibos de Pagamento de Autônomo (RPA). Ideal para setores de Recursos Humanos, Departamento Pessoal ou microempresas que buscam organizar o fluxo de pagamentos de prestadores de serviços autônomos.
 
+📸 Demonstração do Projeto
+
+Aqui está uma prévia visual de como a planilha está estruturada e organizada:
+
+- Relatório de Pagamento de RPA de Setembro de 2018
+![Relatório de Pagamento de RPA de Setembro de 2018l de RPA](screenshots/screenshot1.png)
+
+- Relatório de Pagamento de RPA de Outubro de 2018
+![Relatório de Pagamentos de RPA de Outubro de 2018](screenshots/screenshot2.png)
+
+- Resumo Anual do Pagamento de RPA
+![Resumo Anual do Pagamento de RPA](screenshots/screenshot3.png)
 🚀 Funcionalidades
 
 - Cálculo Automatizado de Impostos: Aplicação dinâmica das alíquotas de INSS retido do autônomo (11%) e da contribuição patronal da empresa (20%).
